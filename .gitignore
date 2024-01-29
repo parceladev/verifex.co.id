@@ -39,7 +39,6 @@ bower_components
 
 # Gatsby files
 .cache/
-/public
 
 # Mac files
 .DS_Store
